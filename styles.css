@@ -19,7 +19,7 @@ body {
 
 #hero {
     background-image: url("images/whitby.jpg");
-    background-size: contain; 
+    background-size: cover; 
     display: flex;
     flex-direction: column;
     align-items: center;
